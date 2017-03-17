@@ -4,9 +4,9 @@ type: lesson
 duration: "1:20"
 creator:
     name: Micah Rich, LA
-        adapted by: Colin Hart for WDI-remote
-            competencies: Workflow
-            ---
+adapted by: Colin Hart for WDI-remote
+    competencies: Workflow
+---
 
 # Git and GitHub intro
 
